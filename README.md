@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dkozikoski
-- 👀 I’m interested in .. aprender pemsamento computacional.
-- 🌱 I’m currently learning ... frquento encini medio 
-- 💞️ I’m looking to collaborate on ...aprendendo github
+- 👋 ola sou  @dkozikoski
+- 👀 estou interesado em .. aprender pemsamento computacional.
+- 🌱  ... frquento encini medio 
+- 💞️ ...aprendendo github
 - 📫 daniel.kozikoski@escola.pr.gov.br
 - 
 
